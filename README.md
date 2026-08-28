@@ -1,7 +1,9 @@
 ### Seif Elesllam Seif
 
-Building full-stack apps with Next.js, Supabase, and Flutter.
-
-**[uswah.app](https://uswah.app)**: practical guidance for real situations, drawn from the Quran and Sahih hadith, with the source shown. Next.js 16, Supabase (Postgres + RLS), three languages including full Arabic RTL, and a content pipeline that screens imagery for religious sensitivity before anything publishes.
+Full-stack developer. Currently building uswah.app.
 
 [LinkedIn](https://www.linkedin.com/in/seifelesllam-seif/)
+
+## Projects
+
+**[uswah.app](https://uswah.app)**: guidance for real situations, answered from the Quran and Sahih hadith, with the source shown for every answer. Next.js 16, Supabase, three languages including full Arabic RTL.
